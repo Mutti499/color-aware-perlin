@@ -14,6 +14,10 @@ This repository contains the implementation and improvement of neural network in
 - Significant improvements in performance and functionality
 - Promising results that warrant further research and validation
 
+## Documentation
+For a detailed technical report and analysis of the methodology, experiments, and results, please refer to:
+`Neural Network Initialization Using Color-Aware Perlin Noise.pdf`
+
 ## Configuration
 The grid size can be customized by modifying the `N` and `M` parameters in the code:
 ```python
@@ -26,3 +30,4 @@ The optimizer parameters were determined using Optuna for optimal performance. T
 
 ## Future Development
 The improved version shows potential for publication pending further validation and enhancement of the findings.
+
